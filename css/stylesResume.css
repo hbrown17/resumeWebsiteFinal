@@ -54,10 +54,14 @@ nav ul li{
   margin: 0.5em;
 }
 /* text */
+
+
 p{
-  font-size: 50px;
+  font-size: 30px;
   font-style: bold;
+  margin-top: 60px;
   margin-left: 100px;
+  margin-bottom: 30px;
   display: flex;
   float: left;
 }
